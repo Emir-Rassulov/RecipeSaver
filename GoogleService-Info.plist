@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.emirrassulov.Food</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>app-1-955396398458-ios-18da81bb068e4b1b690ac3</string>
+			</array>
+		</dict>
+	</array>
+	<key>API_KEY</key>
+	<string>AIzaSyCXRHPUKw5tY8vzeQOeGXXxnIQUyOExkLM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>942959626854</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.emirrassulov.Food</string>
+	<key>PROJECT_ID</key>
+	<string>food-6a443</string>
+	<key>STORAGE_BUCKET</key>
+	<string>food-6a443.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:942959626854:ios:026692af60d66f0976fba7</string>
+</dict>
+</plist>
