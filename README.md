@@ -9,6 +9,7 @@ How it was made:
 In this app, the authentification has been implemented through Firebase including, but not limited to:
 - Custom buttons
 - Animated Custom Text Field
+- Validation
 - Forgot Password
 - PopUp Notification
 - Custom TabMenu
